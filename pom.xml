@@ -8,7 +8,7 @@
     <version>7</version>
   </parent>
 
-  <groupId>edu.gatech.gtri</groupId>
+  <groupId>edu.gatech.gtri.string-metric</groupId>
   <artifactId>string-metric</artifactId>
   <version>1.0-SNAPSHOT</version>
 
