@@ -27,8 +27,8 @@
 
   <scm>
     <url>https://github.com/gtri/string-metric</url>
-    <connection>https://github.com/gtri/string-metric.git</connection>
-    <developerConnection>git@github.com/gtri/string-metric.git</developerConnection>
+    <connection>scm:git:https://github.com/gtri/string-metric.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/gtri/string-metric.git</developerConnection>
   </scm>
 
   <developers>
